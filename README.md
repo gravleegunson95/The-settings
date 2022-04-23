@@ -1,0 +1,2 @@
+# The-settings
+Something_Var01 = IniRead("The settings file and the corresponding value") $Something_Var02 = IniRead("The settings file and the corresponding value") $Something_Var03 = IniRead("The settings file and the corresponding value") $Something_Var04 = IniRead("The settings file and the corresponding value") $Something_Var05 = IniRead("The settings file and the corresponding value") ;...etc
